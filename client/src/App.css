@@ -1,0 +1,42 @@
+body {
+  background-color: #f5f5f5;
+  font-family: 'Roboto', sans-serif;
+}
+
+.App {
+  width: 60vw;
+  height: 100%;
+  margin: auto;
+  background-color: #fff;
+  align-content: center;
+}
+
+#title {
+  font-family: 'Abel', sans-serif;
+  font-size: 40px;
+  display: inline-block;
+  margin: 20px 0 0 20px;
+}
+
+#container {
+  margin: 0;
+  padding: 0;
+}
+
+#resRow {
+  margin: 0;
+}
+
+#resCol {
+  padding: 15px;
+}
+
+@media screen and (max-width: 992px) {
+  .App {
+    width: 100vw;
+  }
+
+  .App {
+    text-align: middle;
+  }
+}

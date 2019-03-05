@@ -1,0 +1,22 @@
+.SelectedCountries {
+  margin: 20px 10px 0 10px;
+  text-align: center;
+}
+
+.SelectedCountries button {
+  outline: none;
+}
+
+.selectedCountryButton {
+  display: inline-block;
+  padding: 0 10px;
+  border: 2px solid #960d0d;
+  border-radius: 16px;
+  margin: 3px;
+  background-color: white;
+}
+
+.fa-times-circle {
+  color: #960d0d;
+  font-size: 13px;
+}

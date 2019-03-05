@@ -1,0 +1,38 @@
+.OptionsBar {
+  font-size: 18px;
+  padding: 0 20px;
+  margin: 6px 20px;
+  line-height: 30px;
+}
+
+.yearselector select {
+  width: 100px;
+  height: 20px;
+  margin: 0 6px;
+  border: 1px solid black;
+  background-color: #fff;
+  outline: none;
+  font-size: 14px;
+}
+
+.percapita button {
+  height: 18px;
+  width: 18px;
+  outline: none;
+  border: 2px solid black;
+  padding: 0;
+  background-color: white;
+}
+
+.perCapitaSelected {
+  width: 12px;
+  height: 12px;
+  display: block;
+  background-color: black;
+  margin: 1px;
+}
+
+.perCapitaSpan {
+  cursor: pointer;
+  padding-left: 5px; 
+}

@@ -1,0 +1,22 @@
+.Recommendations {
+  margin: 25px 10px 10px 10px;
+  text-align: center;
+}
+
+.Recommendations button {
+  outline: none;
+}
+
+.recommendation {
+  display: inline-block;
+  padding: 0 10px;
+  border: 2px solid #289618;
+  border-radius: 16px;
+  margin: 3px;
+  background-color: white;
+}
+
+.fa-plus {
+  color: #289618;
+  font-size: 14px;
+}
